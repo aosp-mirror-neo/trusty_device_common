@@ -1,0 +1,5 @@
+DEBUG := 2
+UBSAN_ENABLED := true
+RELEASE_BUILD := false
+# USER_CFI_ENABLED := false
+# KERNEL_CFI_ENABLED := false
